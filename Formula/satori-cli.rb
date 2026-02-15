@@ -3,6 +3,8 @@ class SatoriCli < Formula
 
   desc "Real-time multilingual transcription and translation with GPU acceleration"
   homepage "https://github.com/KunalKatariya/satori-cli"
+  url "https://github.com/KunalKatariya/satori-cli/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "940144653281d4f4a4a8610629ceb56ef039476d129ce332495da847863f8fc9"
   license "MIT"
   head "https://github.com/KunalKatariya/satori-cli.git", branch: "main"
 
